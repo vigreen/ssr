@@ -1,0 +1,1 @@
+export const isServer = (typeof window !== "object") ? true : false;
